@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catch that catch can, or, The second part of The musical companion being a collection of new catches, songs, and glees : never printed before.</title>
+         </titleStmt>
+         <extent>Approx. 69KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43837</idno><idno type="EEBO-CITATION">13357137</idno>
+  <idno type="VID">99249</idno>
+  <idno type="EEBO-PROQUEST">2240850335</idno>
+  
+            <idno type="STC">Wing H2040</idno>
+            <idno type="STC">ESTC R233784</idno>
+            <idno type="OCLC">13357137</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A43837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 357:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catch that catch can, or, The second part of The musical companion being a collection of new catches, songs, and glees : never printed before.</title>
+                  <author>Hilton, John, 1599-1657.</author>
+                  <author>Playford, John, 1623-1686?</author>
+               </titleStmt>
+               <extent>1 score ([61] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.P. for John Playford at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J. Playford.</note>
+                  <note>Advertisements: p. [61].</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Glees, catches, rounds, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99249:1"/>
+            <pb facs="tcp:99249:1"/>
+            <p>
+               <hi>Catch that Catch can:</hi> OR, THE SECOND PART OF THE Musical Companion; BEING A COLLECTION OF New CATCHES, SONGS, and GLEES, Never printed before.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.P.</hi> for <hi>John Playford,</hi> at his Shop near the <hi>Templ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Church, 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99249:2"/>
+            <pb facs="tcp:99249:2"/>
+            <head>To all <hi>LOVERS</hi> of <hi>MUSIC.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my Preface before the <hi>Fifth Book of Ayres and Songs</hi> lately published, I gave several Reasons for my Reso<g ref="char:EOLhyphen"/>lution of forbearing for the future to make any more Collections of that nature, leaving it to my Son, and Mr. <hi>Carr</hi>'s Son; but having for some years past gathered into one Book divers new Catches, Songs, and Glees, much like those in my <hi>Musical Companion,</hi> which I did only to recreate my self with my Musical Friends, I am prevailed with at their request (and for common benefit) to make them public; and because of their Similitude, give them the Title of the <hi>Second Part</hi> of the <hi>Musical Companion.</hi> The <hi>First Part</hi> contains about 100 Rounds and Catches, 6 Dialogues, 33 Ayres and Songs for two Voices, 60 choice Ayres, Songs, and Glees for three Voices, and 12 Ayres and Songs for four Voices. This <hi>Second Part</hi> contains 70 new Catches and Songs for two, three, and four Voices, many of them were printed from the Authors own Copies, and the rest from the truest Copies I could procure; however it is probable, that by often transcribing some Errors may have crept in, which has occasion'd me to print a smaller number than usual, thereby to make way for a second and more correct Impression, hoping such Gentle<g ref="char:EOLhyphen"/>men as find any Errors will be so kind as to rectifie them, by sending me some truer Copies. Some faults there are in the words, which an intelligent Musical Reader will easily perceive, and mend with a Pen. I am,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>Your Servant, <hi>J. PLAYFORD.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:99249:3"/>
+            <head>A Table of the <hi>Catches, Songs,</hi> and <hi>Glees,</hi> in this Book.</head>
+            <list>
+               <item>OH the bonny <hi>Christchurch</hi> Bells <hi>1</hi>
+               </item>
+               <item>
+                  <hi>Bartholomew</hi> Fair <hi>2</hi>
+               </item>
+               <item>
+                  <hi>John</hi> the M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ller <hi>3</hi>
+               </item>
+               <item>
+                  <hi>Tom Jolly</hi>'s Nose <hi>4</hi>
+               </item>
+               <item>Answer to <hi>Tom Jolly</hi>'s Nose <hi>5</hi>
+               </item>
+               <item>The King's Health <hi>6</hi>
+               </item>
+               <item>Gallopping <hi>Joan 7</hi>
+               </item>
+               <item>Gallopping <hi>Joan,</hi> a second Part <hi>8</hi>
+               </item>
+               <item>Young <hi>John</hi> the Gardiner <hi>9</hi>
+               </item>
+               <item>Jumping <hi>Joan 10</hi>
+               </item>
+               <item>Kind <hi>Jenny 11</hi>
+               </item>
+               <item>The Maid with a Basket <hi>12</hi>
+               </item>
+               <item>A farewel to Wives <hi>13</hi>
+               </item>
+               <item>
+                  <hi>Tawny</hi> Marsh <hi>14</hi>
+               </item>
+               <item>Ʋpon Women's Love <hi>15</hi>
+               </item>
+               <item>A scolding Catch <hi>16</hi>
+               </item>
+               <item>A Catch on Mum Saint <hi>17</hi>
+               </item>
+               <item>The Nutbrown Lass <hi>18</hi>
+               </item>
+               <item>To thee, and to a Maid <hi>19</hi>
+               </item>
+               <item>Have you not in a Chimney seen <hi>20</hi>
+               </item>
+               <item>Let's live good honest Lives <hi>21</hi>
+               </item>
+               <item>A right Catch on the Whigs <hi>22</hi>
+               </item>
+               <item>The <hi>London</hi> Constable <hi>23</hi>
+               </item>
+               <item>The honest Royalist <hi>24</hi>
+               </item>
+               <item>The Loy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Citizen <hi>25</hi>
+               </item>
+               <item>A small Quarrel <hi>26</hi>
+               </item>
+               <item>On the watering a Horse <hi>27</hi>
+               </item>
+               <item>Let us love and drink our Liquor <hi>28</hi>
+               </item>
+               <item>When <hi>Judith</hi> approach'd <hi>Holifernes 29</hi>
+               </item>
+               <item>Quoth the Thatcher to his Man <hi>30</hi>
+               </item>
+               <item>The Epitaph on honest <hi>Symon 31</hi>
+               </item>
+               <item>The Epitaph on two Abby-Lubbers <hi>32</hi>
+               </item>
+               <item>Counsel for married Men <hi>33</hi>
+               </item>
+               <item>On a scolding Wife <hi>34</hi>
+               </item>
+               <item>The jolly brown Bastard <hi>35</hi>
+               </item>
+               <item>Now <hi>England</hi>'s great Council <hi>36</hi>
+               </item>
+               <item>The Jovial Drinker <hi>37</hi>
+               </item>
+               <item>Since the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke is return'd <hi>38</hi>
+               </item>
+               <item>A Loyal Catch <hi>39</hi>
+               </item>
+               <item>In praise of Mam <hi>40</hi>
+               </item>
+               <item>A Catch on Tobacco <hi>41</hi>
+               </item>
+               <item>A Catch on small Beer <hi>42</hi>
+               </item>
+               <item>A Catch upon the word <hi>Nothing 43</hi>
+               </item>
+               <item>
+                  <hi>Patrick</hi> and <hi>Peggy 44</hi>
+               </item>
+               <item>Ye Cats that at Midnight spit Love <hi>45</hi>
+               </item>
+               <item>In praise of White-wine <hi>46</hi>
+               </item>
+               <item>In praise of Claret <hi>47</hi>
+               </item>
+               <item>The Crab of the Wood <hi>48</hi>
+               </item>
+               <item>The Tinder-box, or Touch and go <hi>49</hi>
+               </item>
+               <item>A Catch in praise of Punch <hi>50</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lay with an old Man <hi>51</hi>
+               </item>
+               <item>Old <hi>Chiron</hi> thus preach'd to his Pupil <hi>52</hi>
+               </item>
+               <item>Come my Hearts, pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y your parts <hi>53</hi>
+               </item>
+               <item>Come lay by your Cares <hi>54</hi>
+               </item>
+               <item>The W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dding Catch <hi>55</hi>
+               </item>
+               <item>Ʋp and down this World goes <hi>56</hi>
+               </item>
+               <item>
+                  <hi>Dun now</hi> Catch for a Flitch of Bacon <hi>57</hi>
+               </item>
+               <item>The Hart he loves the high Wood <hi>58</hi>
+               </item>
+               <item>Count <hi>Starembergh</hi>'s Health <hi>59</hi>
+               </item>
+               <item>Ʋt La, Ʋt Fa Me <hi>60</hi>
+               </item>
+               <item>A <hi>Scotch</hi> Epitaph on a Piper <hi>61</hi>
+               </item>
+               <item>We live in Woods, [for <hi>2</hi> Voc.] <hi>62</hi>
+               </item>
+               <item>Let us drink to all, [a Glee.] <hi>63</hi>
+               </item>
+               <item>Away with the Causes of Riches, [a Glee] <hi>64</hi>
+               </item>
+               <item>Adieu to a M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stress, [<hi>2</hi> Voc.] <hi>67</hi>
+               </item>
+               <item>Tho' my Mistress be f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir, [<hi>2</hi> Voc.] <hi>68</hi>
+               </item>
+               <item>Awake my Muse, [<hi>3</hi> Voc] <hi>69</hi>
+               </item>
+               <item>
+                  <hi>Jack</hi>'s Cloak, a Catch, [<hi>3</hi> Voc.] <hi>70</hi>
+               </item>
+               <item>
+                  <hi>Tom</hi> of <hi>Bedlam,</hi> [For a Bass alone.] <hi>71</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="song">
+            <pb facs="tcp:99249:3"/>
+            <head>1 <hi>A.</hi> 3 <hi>Voc. [Ʋpon</hi> Christchurch <hi>Bells in</hi> Oxford.]</head>
+            <byline>Dr. <hi>Hen. Aldridge.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> OH the bonny Christchurch Bells, 1, 2, 3, 4, 5, 6; they sound so woundy great, so wond'rous sweet, and they trowl so mer╌ri╌ly, mer╌ri╌ly: Oh the first and second Bell, that e╌ve╌ry day at Four and Ten, cries, Come, come, come, come, come to Pray'rs, and the Virger troops before the Dean: Tinkle, tinkle, ting, goes the small Bell at Nine, to call the Beerers home, but the Dev'l a Man will leave his Can, 'till he hears the mighty <hi>Tom.</hi>
+            </p>
+            <div type="alternative_version">
+               <head>Other words to the same Tune.</head>
+               <l>HArk the merry <hi>Tinker's</hi> crew, <hi>Nell, Doll, Moll, Kate,</hi> and <hi>Sue;</hi>
+               </l>
+               <l>They swig such wond'rous Ale,</l>
+               <l>So woundy stale,</l>
+               <l>And they Chat so merrily, merrily.</l>
+               <l>Hark, the bawling Brats do cry,</l>
+               <l>Along the Streets as you pass by,</l>
+               <l>Oh, good Sir, pray Sir, one Farthing,</l>
+               <l>And thus the Bantlins never lin:</l>
+               <l>Tink, tink, tink, tink, tink, goes the Fryingpan,</l>
+               <l>But the Dev'l a Jade (to call the <hi>Doxies</hi> hom;</l>
+               <l>Will leave her Trade,</l>
+               <l>'Till the mighty <hi>Tinker</hi>'s come.</l>
+            </div>
+         </div>
+         <div n="2" type="song">
+            <pb facs="tcp:99249:4"/>
+            <head>2 <hi>A.</hi> 3 <hi>Voc.</hi> [Bartholomew <hi>Fair.</hi>]</head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> HEre's that will challenge all the Fair, come buy my Nuts and Damsons, my Bur╌ga╌my Pears; here's the Whore of <hi>Ba╌by╌lon,</hi> the Devil and the Pope, the Girl is just a go╌ing on the Rope: Here's <hi>Di╌ves</hi> and <hi>La╌za╌rus,</hi> and the World's Cre╌a╌tion, here's the <hi>Dutch</hi> Woman, the like's not in the Nation; here's the Booth where the tall <hi>Dutch</hi> Maid is, here are Bears that dance like a╌ny Ladies. To╌ta, to╌ta, tot, goes the lit╌tle Pe╌ny Trumpet, here's your <hi>Ja╌cob Hall</hi> that can jump it, jump it; sound Trumpet, sound, a sil╌ver Spoon and Fork, come here's your dain╌ty Pig and Pork.</p>
+         </div>
+         <div n="3" type="song">
+            <pb facs="tcp:99249:4"/>
+            <head>3 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 4 <hi>Voc.</hi>
+            </head>
+            <byline>[John <hi>the Miller.</hi>]</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>JOhn</hi> ask'd his Land{dash}la╌dy, think╌ing no ill, where he might best set up a Wa╌ter{dash}Mill; the wan╌ton La╌dy see╌ing <hi>John</hi> all a╌lone, re<g ref="char:EOLhyphen"/>tur╌ned her Answer to her Servant <hi>John:</hi> Would'st thou all o╌thers thy Mill should disgrace? Then be╌twixt my Legs will be the fit╌test place; for I in time of need, can from be╌hind, when Wa╌ter fails before, supply't with Wind.</p>
+         </div>
+         <div n="4" type="song">
+            <pb facs="tcp:99249:5"/>
+            <head>4 A. <hi>3</hi> Voc. [<hi>Tom Jolly</hi>'s Nose.]</head>
+            <byline>
+               <hi>Dr.</hi> Henry Aldridge.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>TOm Jol╌ly</hi>'s Nose I mean to a╌buse, thy Jol╌ly Nose <hi>Tom</hi> pro<g ref="char:EOLhyphen"/>vokes my Muse; thy Nose jol╌ly <hi>Tom</hi> that shines so bright, I'le ea╌si╌ly fol╌low it by its own light: Thy Nose <hi>Tom Jol╌ly</hi> no Jest it will bear, although it yields Mat╌ter enough, and to spare; but jol╌ly <hi>Tom</hi>'s Nose, for all he can do, breeds Worms in it self, and in our Heads too. <hi>Tom</hi>'s Nose, jol╌ly <hi>Tom</hi>'s Nose, the more it is bat╌ter'd, the more it glows: Then drink to <hi>Tom Jol╌ly</hi> a coo╌ling Glass, or jol╌ly <hi>Tom</hi>'s Nose will fire his Face.</p>
+         </div>
+         <div n="5" type="song">
+            <pb facs="tcp:99249:5"/>
+            <head>5 A. <hi>3</hi> Voc. [Answer to <hi>Tom Jolly</hi>'s Nose.]</head>
+            <byline>
+               <hi>Dr.</hi> John Blow.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ALthough jol╌ly <hi>Tom</hi> great Fame thou hast won, thy bloo╌dy red Nose shall look pa╌ler e're long; for the rate that we drink at each night, still procures such No╌ses as would quite discountenance yours: And when the large Bum╌per floats round in the close, we'l despise thee, and swear, 'tis mine Arse of a Nose.</p>
+         </div>
+         <div n="6" type="song">
+            <head>6 <hi>A.</hi> 4 <hi>Voc. [The King's Health.]</hi>
+            </head>
+            <byline>Dr. <hi>John Blow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> GOD preserve his Ma╌je╌sty, and for e╌ver send him Vi╌cto╌ry, and con╌found all his E╌ne╌mies, drink off your Wine Sir. <stage>
+                  <hi>Repeat</hi> Amen <hi>all the while this Catch is singing, resting four Crotchets.</hi>
+               </stage>
+               <hi>A╌men.</hi>
+            </p>
+         </div>
+         <div n="7" type="song">
+            <pb facs="tcp:99249:6"/>
+            <head>7 <hi>A.</hi> 3 <hi>Voc. [Gallopping</hi> Joan.]</head>
+            <byline>Dr. <hi>John Blo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>JOan</hi> has been gal╌lop╌ping, gal╌lop╌ping, gal╌lop╌ping, <hi>Joan</hi> has been gallopping all the Town o're; 'till her Bumfiddle, Bumfiddle, Bumfiddle, that 'till her Bum╌fid╌dle was wonderous sore; without e're a Sad╌dle up<g ref="char:EOLhyphen"/>on her old Jade, to fetch her good Man from the Alehouse trade.</p>
+         </div>
+         <div n="8" type="song">
+            <head>8 <hi>A.</hi> 3 <hi>Voc. [Second Part of Gallopping</hi> Joan.]</head>
+            <byline>Mr. <hi>Lenton.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THis gallopping, gallopping <hi>Joan,</hi> I conclude, has an Instrument sucks, sucks more than Leech or Pump: She at pre╌sent, poor Girl, has no time to be lewd, for her Buttocks are so sore she cannot jump; but how-e╌ver you may tickle her Vir╌gi╌nal Rump, for plain╌ly I see with your Mouth how you mump.</p>
+         </div>
+         <div n="9" type="song">
+            <pb facs="tcp:99249:6"/>
+            <head>9 <hi>A.</hi> 4 <hi>Voc. [Young</hi> John <hi>the Gardiner.]</hi>
+            </head>
+            <byline>Mr. <hi>Hen. Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> YOung <hi>John</hi> the Gard'ner ha╌ving late╌ly got a ve╌ry rich and fer╌tile Garden Plot; bragging to <hi>Joan,</hi> quoth he, so rich a Ground for Mellons can╌not in the World be found: That's a damn'd lye, quoth <hi>Joan,</hi> for I can tell, a place that does your Gar╌den far ex╌cell: Where's that? says <hi>John,</hi> in mine Arse, quoth <hi>Joan,</hi> for there is store of Dung and Wa╌ter all the year.</p>
+         </div>
+         <div n="10" type="song">
+            <head>10 <hi>A.</hi> 4 <hi>Voc. [Jumping</hi> Joan.]</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>JOan, Joan,</hi> for your part, you love kissing with all your Heart; by my Troth▪ do I, says jum╌ping <hi>Joan,</hi> and therefore to you I make my moan.</p>
+         </div>
+         <div n="11" type="song">
+            <pb facs="tcp:99249:7"/>
+            <head>11 <hi>A.</hi> 3 <hi>Voc. [Kind</hi> Jenny.]</head>
+            <byline>Dr. <hi>John Blow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> I'Le tell my Mo╌ther my <hi>Jen╌ny</hi> cries, and then a poor languishing Lo╌ver dies; but e'ye faith I be╌lieve the Gip╌sey lies, for all she looks so grave and wise: She longs to be tickl'd, to be tickl'd, to be tickl'd, she longs to be tickl'd; Oh! she longs to be tickl'd.</p>
+         </div>
+         <div n="12" type="song">
+            <head>12 <hi>A.</hi> 3 <hi>Voc. [The Maid with a Basket.]</hi>
+            </head>
+            <byline>Mr. <hi>William Turner.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ONce I did see a Maid with a Bas╌ket hanging dangling on her Arm; she lay down as soon as I ask'd it, and rose a╌gain without hurt or pain: And trip'd it mer╌ri╌ly, and trip'd it mer╌ri╌ly, mer╌ri╌ly, mer╌ri╌ly o're the Plain.</p>
+         </div>
+         <div n="13" type="song">
+            <pb facs="tcp:99249:7"/>
+            <head>13 <hi>A.</hi> 4 <hi>Voc. [A Farewel to Wives.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ONce in our lives let us drink to our Wives, tho' the num╌ber of them is but small; God take the best, and the Dev'l take the rest, and so we shall be rid of 'em all.</p>
+         </div>
+         <div n="14" type="song">
+            <head>14 <hi>A.</hi> 3 <hi>Voc.</hi>
+            </head>
+            <byline>Mr. <hi>John Jackson.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> AS I went o╌ver <hi>Taw╌ny Marsh,</hi> there I met with a taw╌ny Lass; taw╌ny Hose, and taw╌ny Shoon, taw╌ny Pet╌ti╌coat, tawny Gown; tawny Brows, and tawny Face, thy taw╌ny Nose in her taw╌ny Arse.</p>
+         </div>
+         <div n="15" type="song">
+            <head>15 <hi>A.</hi> 4 <hi>Voc.</hi>
+            </head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> TIS Women makes us love, 'tis Love that makes us sad; 'tis Sadness makes us drink, and drinking makes us mad.</p>
+         </div>
+         <div n="16" type="song">
+            <pb facs="tcp:99249:8"/>
+            <head>16 <hi>A.</hi> 3 <hi>Voc. [A scolding Catch.]</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> FY nay, pre╌thee <hi>John,</hi> do not quar╌rel man, let's be mer╌ry, and drink a╌bout; you are a Rogue, you cheated me, I'le prove before this Company, I care not a Farthing for all you are so stout: Sir, you lye, I scorn your words, or▪ a╌ny Man that wears a Sword, for all you huff, who cares a Turd, or who cares for you.</p>
+         </div>
+         <div n="17" type="song">
+            <head>17 <hi>A.</hi> 3 <hi>Voc. [A Catch on Mum Saint.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> STrange News from the <hi>Rose</hi> Boys, ne╌ver heard be╌fore Boys; Saint upon a Sun╌day he play'd a╌way his Clothes Boys, ne╌ver such a Saint was there e╌ver heard be╌fore Boys.</p>
+         </div>
+         <div n="18" type="song">
+            <pb facs="tcp:99249:8"/>
+            <head>18 <hi>A.</hi> 3 <hi>Voc. [The Nut-brown Lass.]</hi>
+            </head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> A Health, a Health to the Nut╌brown Lass, with the Ha╌zle Eyes; she that has good Eyes, has al╌so good Thighs, let it pass, let it pass: As much to the live╌li╌er Gray, they're as good by night as day; she that has good Eyes, has al╌so good Thighs, drink a╌way, drink away: I'le pledge, Sir, I'le pledge, what ho! some Wine, here! some Wine; to mine, and to thine; to thine, and to mine; the Colours are Divine: But Oh! the Black Eyes, the Black, give me as much a╌gain, and let it be Sack; She that has good Eyes, has al╌so good Thighs, and a better knack.</p>
+         </div>
+         <div n="19" type="song">
+            <pb facs="tcp:99249:9"/>
+            <head>19 <hi>A.</hi> 3 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Hen. Purce.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> TO thee, to thee, and to a Maid that kindly will up╌on her back be laid; and laugh, and sing, and kiss, and play, and wan╌ton, wan╌ton out a Sum╌mers day: Such, such a Lass, kind Friends, and drinking, give me, great <hi>Jove,</hi> and damn, and damn the thinking.</p>
+         </div>
+         <div n="20" type="song">
+            <head>20 <hi>A.</hi> 4 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Robert Smith.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> HAve you not in a Chimney seen, a Fa╌got that is moyst and green, how it doth weep, and with its Tears, sends its Complaint un╌to our Ears? So fares it with a ten╌der Maid, when first up╌on her Back she's laid: but dry Wood, like the experienc'd Dame, cracks and re╌joy╌ces in the Flame.</p>
+         </div>
+         <div n="21" type="song">
+            <pb facs="tcp:99249:9"/>
+            <head>21 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Voc. [A true Catch.]</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LEt's live good honest Lives, and make much of our Wives; and since all Flesh is Grass, let's mer╌ri╌ly, mer╌ri╌ly, mer╌ri╌ly drink our Glass: God bless our noble King, what need we fear the Pope, the Pope, the Pope, the Pope, the Pope, the Pope, the Je╌suits, Jews, or Turks? For we de╌fie the Devil, the Devil, the Devil, the Devil, the Devil, the Devil, and all his Works.</p>
+         </div>
+         <div n="22" type="song">
+            <head>22 <hi>A.</hi> 3 <hi>Voc. [A right Catch.]</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THere are a crew of Rogues infect the Town, would undermine the Crown, the Whigs, the Whigs, the Whigs, the Whigs I mean; let all true <hi>Britains</hi> sing, They may be hang'd, may be hang'd, may be hang'd, may be hang'd, and so <hi>God save the King.</hi>
+            </p>
+         </div>
+         <div n="23" type="song">
+            <pb facs="tcp:99249:10"/>
+            <head>23 A. <hi>3</hi> Voc. [The <hi>London</hi> Constable.]</head>
+            <byline>
+               <hi>Mr.</hi> Hen. Purcell.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHo comes there? stand; who comes there? stand, and come before the Constable, we'l know what you are; what makes you out so late? says the Mid╌night Ma╌gi╌strate, with a Nod╌dle full of Ale, in a woo╌den Chair of State. Whence come you, Sir? and whither do you go? you may be, Sir, a <hi>Je╌su╌it</hi> for ought I know: You may as well Sir take me for a <hi>Ma╌ho╌me╌tan.</hi> He speaks La╌tin, se╌cure him, he's a dan╌ge╌rous Man. To tell you the truth, Sir, I am an ho╌nest <hi>To╌ry;</hi> but here's a Crown to drink, and there's an end of the sto╌ry. Good morrow Sir, a ci╌vil Man is
+<pb facs="tcp:99249:10"/> al╌ways wel╌com; go <hi>Bar╌na╌by Bounce,</hi> light the Gentleman home.</p>
+         </div>
+         <div n="24" type="song">
+            <head>24 <hi>A.</hi> 3 <hi>Voc. [The honest Royalist.]</hi>
+            </head>
+            <byline>Mr. <hi>John Roffey.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> COme, here's to the Man that lives qui╌et, and follows his own Oc╌cu<g ref="char:EOLhyphen"/>pa╌tion; that sau╌ci╌ly dares not to fly at the set╌led e╌state of the Nation: That ne╌ver in Faction took pleasure, nor sign'd a se╌di╌tious Pe<g ref="char:EOLhyphen"/>ti╌tion; whose Re╌li╌gion no Int'╌rest doth measure, whose Heart ne're com<g ref="char:EOLhyphen"/>mit╌ted mis╌pri╌sion; but boldly dares own himself Loy╌al to ev'╌ry Pha<g ref="char:EOLhyphen"/>na╌ti╌cal Rumper, and to all the Fa╌mi╌ly Royal most free╌ly will take off his Bumper.</p>
+         </div>
+         <div n="25" type="song">
+            <pb facs="tcp:99249:11"/>
+            <head>25 <hi>A.</hi> 3 <hi>Voc. [The Loyal Citizen.]</hi>
+            </head>
+            <byline>Mr. <hi>Francis Forcer.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> SOme say the Plot goes on, and some for Re╌bel╌lion hope; but we'l com<g ref="char:EOLhyphen"/>bine to drink good Wine, in spite of Pha╌na╌tic or Pope: <hi>Jack Pres╌by╌ter</hi> huffs and dings, and Dirt on the Church he flings; the Ci╌ti╌zens swear they want but a May'r, to make them do won╌de╌rous things. But a Curse on all Knaves and Fools, sure we are not all such Owls; that twice in an Age they can e╌ver en╌gage the Na╌tion to damn their Souls.</p>
+         </div>
+         <div n="26" type="song">
+            <head>26 <hi>A.</hi> 5 <hi>Voc. [A small Quarrel.]</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHat's the mat╌ter, what a Pox? nay, nay! nay, nay! prethee, prethee! what's the mat╌ter? hey day!</p>
+         </div>
+         <div n="27" type="song">
+            <pb facs="tcp:99249:11"/>
+            <head>27 <hi>A.</hi> 4 <hi>Voc. [A Catch on a Horse.]</hi>
+            </head>
+            <byline>Mr. <hi>Hen. Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> TIS ea╌sie to force to the Wa╌ter your Horse, but when h'as once had his Dose, he'l no more drench his Nose; that the Creature thus wise is, from hence it a╌ri╌ses, he finds his chill Fuddle meer E╌le╌ment and Puddle: Let the Tip╌ple be Wine, if the Horse proves not Swine, and drink all he's an Ass, tho' the Thames was his Glass; Grea╌ter Man on some strand more cou<g ref="char:EOLhyphen"/>ragious should stand, and quaff, and quaff Seas in a hand.</p>
+         </div>
+         <div n="28" type="song">
+            <head>28 <hi>A.</hi> 3 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>John Lenton.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LET us love and drink our Li╌quor, we shall spend our Means the quicker, here's to thee kind Friend a Nic╌ker.</p>
+         </div>
+         <div n="29" type="song">
+            <pb facs="tcp:99249:12"/>
+            <head>29 <hi>A.</hi> 3 <hi>Voc.</hi> [Judith <hi>and</hi> Holifernes.]</head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHen <hi>Judith</hi> approach'd <hi>Ho╌li╌fer╌nes</hi> in bed, she pull'd out his Falchion, and cut off his Head; the rea╌son is plain, he'd have made her his Whore, so she cut off his Head as I told you be╌fore, as I told you before.</p>
+         </div>
+         <div n="30" type="song">
+            <head>30 <hi>A.</hi> 4 <hi>Voc. [The Thatcher.]</hi>
+            </head>
+            <byline>Mr. <hi>John Moss.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> QUoth the Thatcher to his Man, <hi>Jack,</hi> what dost think? Let's raise this Ladder if we can, but first let's drink: No man can do more than a can, that's ve╌ry plain; a Can may do's much as a Man, that's right again.</p>
+         </div>
+         <div n="31" type="song">
+            <head>31 <hi>A.</hi> 4 <hi>Voc. [An EPITAPH on an honest Citizen, and true Friend to all Claret-drinkers.]</hi>
+            </head>
+            <byline>Mr. <hi>William Turner.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> HEre li╌eth <hi>Sy╌mon</hi> cold as Clay, who whil'st he liv'd, cry'd, who whil'st he liv'd,
+<pb facs="tcp:99249:12"/> cry'd, <hi>Tip a╌way;</hi> and when Death puts out his Ta╌per, he needeth no touch, he needeth no <hi>Touch up╌on a Pa╌per.</hi> Now let him rest, since he is dead, and asks not for a bit, <hi>and asks not for a bit of Bread,</hi> before he dy'd, and that is much, for Death gave him, for Death gave him a <hi>Ra╌cey Touch.</hi>
+            </p>
+            <lg>
+               <l>Now though this <hi>Epitaph</hi> was long since given,</l>
+               <l>Yet he's no more dead than any Man living.</l>
+            </lg>
+         </div>
+         <div n="32" type="song">
+            <head>32 A. <hi>4</hi> Voc. [A <hi>Yorkshire</hi> Epitaph on two Abby Lubbers.]</head>
+            <byline>
+               <hi>Dr.</hi> John Blow.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> UDS nigs! here ligs <hi>John Diggs,</hi> and <hi>Richard Digger,</hi> and to say the truth, to say the truth, none knew which was the bigger; they fared well, and li╌ved easie, and now they're dead, and now they're dead, and now they're dead, and shall please ye.</p>
+         </div>
+         <div n="33" type="song">
+            <pb facs="tcp:99249:13"/>
+            <head>33 <hi>A.</hi> 4 <hi>Voc. [A Councel for Married Folks.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> FRom twenty to thirty good night and good morrow; from thir╌ty to for╌ty good night or good morrow; from for╌ty to fif╌ty, as oft as ye shift ye; from thence to threescore, once a Month and no more.</p>
+         </div>
+         <div n="34" type="song">
+            <head>34 A. <hi>3</hi> Voc. [The Scolding Wife.]</head>
+            <byline>
+               <hi>Mr.</hi> Henry Purcell.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> MY Wife has a Tongue as good as e're twang'd, at ev╌ry word she bids me be hang'd: She's ug╌ly, she's old, and a cur╌sed scold, with a dam╌na╌ble <hi>Nun╌quam sa╌tis;</hi> for her Tongue and her Tail, if e╌ver they fail, the De╌vil shall have her <hi>gra╌tis.</hi>
+            </p>
+         </div>
+         <div n="35" type="song">
+            <pb facs="tcp:99249:13"/>
+            <head>35 <hi>A.</hi> 3 <hi>Voc. [Black</hi> Bess.]</head>
+            <byline>Mr. <hi>William Laws.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>BEss</hi> black as a Char╌coal, was found in a dark hole, with <hi>Kit</hi> at the <hi>Cat</hi> and the <hi>Fid╌dle;</hi> but what they did there, none safe╌ly can swear, yet Gen╌tle╌men rid╌dle my Rid╌dle. Troth, I would be loth, were I put to my Oath, to swear <hi>Kit</hi> with <hi>Bess</hi> did en╌gen╌der; yet it would tempt a Man, bri╌dle all that he can, his pre╌sent well╌wish╌es to ten╌der. But 'twas found at last, e're a Twelve-month was past, that <hi>Chri╌sto╌pher Bess</hi> had o'remaster'd; for betwixt ei╌ther Thigh he had quarter'd so nigh, she brought him a jol╌ly brown Ba╌stard.</p>
+         </div>
+         <div n="36" type="song">
+            <pb facs="tcp:99249:14"/>
+            <head>36 <hi>A.</hi> 3 <hi>Voc. [A Catch made in the time of Parliament,</hi> 1676.]</head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> NOW <hi>England</hi>'s great Council's assembled, to make Laws for all <hi>English</hi>-born Free-men; since 'tis dang'rous to prate of matters of State, let's handle our Wine, and our Wo╌men: Let's drink to the Se╌nates best Thoughts, for the good of the King and the Nation; may they dig on the Spot as deep for the Plot, as the Je╌suits have laid the Foun╌da╌tion. A Pox of all Zea╌lots and Fool, and each sil╌ly Pro╌te╌stant ha╌ter; bet╌ter turn Cat in Pan, and live like a Man, than be hang'd and dye like a Traytor.</p>
+         </div>
+         <div n="37" type="song">
+            <pb facs="tcp:99249:14"/>
+            <head>37 A. <hi>3</hi> Voc. [The Jovial Drinker.]</head>
+            <byline>
+               <hi>Mr.</hi> Hen. Purcell.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LEt the grave Folks go Preach, that our Lives are but short, and tell us much Wine speedy Death does in╌vite; but we'll be re╌veng'd before-hand with them for't, and crowd a Life's Mirth in the space of a Night: Then stand all about with your<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Glas╌ses full Crown'd, 'till ev'╌ry thing else▪ to our Posture do grow; 'till our<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cups and our Heads, and the whole House go round, and the Celler become where the Chamber is now. The Sun in the Rays of his rich Mor╌ning Gown, shall be Rivall'd by Fa╌ces as bright as his own; and wonder that Mortals can▪ fud╌dle a╌way more Wine in a night, than he Wa╌ter i'th' day.</p>
+         </div>
+         <div n="38" type="song">
+            <pb facs="tcp:99249:15"/>
+            <head>38 <hi>A.</hi> 3 <hi>Voc. [Ʋpon the Duke's Return.]</hi>
+            </head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> SInce the Duke is return'd, we'l damn all the Whigs, and let them be hang'd for Po╌li╌tic Prigs; both <hi>Pres╌by╌ter Jack,</hi> and all the whole Crew, that late╌ly de╌sign'd <hi>For╌ty one</hi> to re╌new: Make room for the Man that ne╌ver deny'd, to <hi>God save the King and Duke,</hi> they reply'd; whose Loy╌al╌ty e╌ver was fix'd with that Zeal, of vo╌ting down Schisme, and proud Common<g ref="char:EOLhyphen"/>weal. Then bring up a Pot╌tle, we'l <hi>Huz╌za</hi> the Glass, and drink off a Bot╌tle each Man in his place; 'tis a Health to the Duke boy, give me my mea╌sure, the ful╌ler the Glass is, the grea╌ter the Pleasure.</p>
+         </div>
+         <div n="39" type="song">
+            <pb facs="tcp:99249:15"/>
+            <head>39 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 3 <hi>Voc. [A Loyal Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> GOD save our Sov'raign <hi>Charles,</hi> our <hi>Faith</hi>'s <hi>De╌fen╌der,</hi> let all good Men his Laws and Honour ten╌der; protect Queen <hi>Cath'rine, England</hi>'s nursing Mother, pre<g ref="char:EOLhyphen"/>serve <hi>York</hi>'s Duke, our King's Il╌lu╌strious Brother: Who to his pi╌ous Votes de╌nies his Hand, I pray for him too, but wish him out o'th' Land.</p>
+         </div>
+         <div n="40" type="song">
+            <head>40 <hi>A.</hi> 3 <hi>Voc. [In praise of Mum.]</hi>
+            </head>
+            <byline>Dr. <hi>Hen. Aldridge.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THere's an odd sort of Li╌quor new come from <hi>Hamborough,</hi> 'twill stitch a whole Wapentake thorough and thorough; 'tis yellow, and likewise as bit╌ter as Gall, and as strong as six Horses, Coach and all: As I told you, 'twill make you as drunk as a Drum; you'd fain know the name on't, but for that my friend MUM.</p>
+         </div>
+         <div n="41" type="song">
+            <pb facs="tcp:99249:16"/>
+            <head>41 <hi>A.</hi> 4 <hi>Voc. [A Catch on Tobacco, to be sung by</hi> 4 <hi>Men smoaking Pipes.]</hi>
+            </head>
+            <byline>Dr. <hi>H. Aldridg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> GOod, good in╌deed, the Herb's good Weed, fill thy Pipe <hi>Will,</hi> and I, pre╌thee <hi>Sam</hi> fill, for sure we may smoak, and yet sing still, and yet sing still. What say the Learned? What say the Learned? <hi>Vi╌ta fumus, vi╌ta fu╌mus;</hi> 'tis what you and I, and he and I, you, and he, and I, and all of us, <hi>Sumus.</hi> But then to the Learned say we a╌gain, if Life's a Smoak as they maintain: If Life's a Vapour, without doubt, when a Man does dye, they should not cry, That his Glass is run, but, His Pipe is out. But whether we smoak, or whether we sing, let's be Loyal and re<g ref="char:EOLhyphen"/>member
+<pb facs="tcp:99249:16"/> the King; let him live, and let his Foes va╌nish, thus, thus, thus, like, like a Pipe, like a Pipe of <hi>Spanish,</hi> thus, thus, like a Pipe of <hi>Spanish.</hi>
+            </p>
+         </div>
+         <div n="42" type="song">
+            <head>42 <hi>A.</hi> 3 <hi>Voc. [Ʋpon small Beer.]</hi>
+            </head>
+            <byline>Dr. <hi>Hen. Aldridge.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> IF all true Friends of good Liquor now were here, were here, to club strongly in be<g ref="char:EOLhyphen"/>half of <hi>Small Beer, Small Beer,</hi> in behalf of hey diddle, ho diddle, hey <hi>Small Beer;</hi> it would all be too little the Tiff to exalt, and to make out in Metre what it wants in Malt: The <hi>French</hi> call it <hi>Little Beer,</hi> and we call it <hi>Small,</hi> and we call, we call it <hi>Small,</hi> and some sort of people ne╌ver call for't at all: But I wish all those once, at least for their warning, <hi>Strong</hi> over night, much <hi>Stro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g</hi> o╌ver night, and no, no <hi>Small</hi> the next morning.</p>
+         </div>
+         <div n="43" type="song">
+            <pb facs="tcp:99249:17"/>
+            <head>43 <hi>[A Catch upon NOTHING.]</hi>
+            </head>
+            <byline>Dr. <hi>Henry Aldridg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> SIng mer╌ri╌ly now my Lads, here's a Catch that was never meant you, but came by the Wheel of Fortune, without a╌ny de╌sign or intent you; it happen'd that once the Au<g ref="char:EOLhyphen"/>thor his Head was ex╌cee╌ding hot, a Catch he resolv'd he would make, he would make, and he cou'd╌n't tell of what: He thought of the Smoak the Weed affords, and it vanish'd all a╌way; he thought of fine Ladies and their fine Lords, and yet he found nothing to say. He thought of a thousand Pound, but it wou'd╌n't turn to account: He thought of the Pot, and he thought of the Plot, but nothing would come on't. At last he re<g ref="char:EOLhyphen"/>solv'd, tho' nothing would do, that nothing should put him by Sir, but
+<pb facs="tcp:99249:17"/> no╌thing to pur╌pose of Nothing he'd write, and no bo╌dy should be the wi╌ser. 'Tis no╌thing to you if he would do so, and if Nothing's in't you find; then thank him for Nothing, and that will be more than e╌ver he de╌sign'd.</p>
+         </div>
+         <div n="44" type="song">
+            <head>44 A. <hi>3</hi> Voc. [An <hi>Irish</hi> Catch.]</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>PA╌trick</hi> and <hi>Peg╌gy</hi> were play╌ing a╌lone, quoth <hi>Pa╌trick</hi> to <hi>Peg╌gy,</hi> Oh hone, Oh hone; thy Bel╌ly gangs up a╌main, bless our sweet Ba╌by, and weez have a pret╌ty one if it may be: Sing Lul╌la╌by, Lul╌la╌by, dan╌dle the Lad, if thouz be the Mammy on't, Ize be the Dad on't.</p>
+         </div>
+         <div n="45" type="song">
+            <pb facs="tcp:99249:18"/>
+            <head>45 <hi>A.</hi> 3 <hi>Voc. [A Catch on the Cats.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> YE Cats that at Midnight spit Love at each o╌ther, who best feel the Pangs of a pas╌sio╌nate Lover; I ap╌peal to your scratches and tat╌te╌red Fur, if the busi╌ness of Love be no more than to pur. Old La╌dy <hi>Grim<g ref="char:EOLhyphen"/>malkin,</hi> with Goosberry Eyes, when a Kitten knew something for why she was wise; you find by experience the Love-fit's soon o're, Puss, Puss, lasts not long, but turns to Cat-whore. Men ride many Miles, Cats tread many Tiles, both hazard, both hazard their Necks in the fray; on╌ly Cats, if they fall from a House or a Wall, keep their Feet, mount their Tails, mount their Tails and away.</p>
+         </div>
+         <div n="46" type="song">
+            <pb facs="tcp:99249:18"/>
+            <head>46 <hi>A.</hi> 3 <hi>Voc. [In Praise of White-wine.]</hi>
+            </head>
+            <byline>Mr. <hi>John Reading.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> LET chrystal White-wine cheer the drow╌zy Mind, 'tis Cla╌ret on╌ly leaves a stain be╌hind; in the use of which, we do <hi>Bacchus</hi> disgrace, we make the God mor╌tal by pain╌ting his face: He's not like a God, whose I╌mage is red; o're Night his Cheeks blush, in the Morning they're dead.</p>
+         </div>
+         <div n="47" type="song">
+            <head>47 <hi>A.</hi> 3 <hi>Voc. [In praise of Claret.]</hi>
+            </head>
+            <byline>Mr. <hi>John Reading.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> A Hogshead was offer'd to <hi>Bacchus</hi> his Shrine, the God was of╌fen╌ded be<g ref="char:EOLhyphen"/>cause 'twas White-wine; then curs'd in a passion, Damn't, rot it, and mar it, did'st ever know <hi>Bacchus</hi> drink other than Claret; So the jol╌ly red God having empty'd the White-wine, return'd the poor Vot'╌ry the Hogshead to shite in.</p>
+         </div>
+         <div n="48" type="song">
+            <pb facs="tcp:99249:19"/>
+            <head>48 <hi>A.</hi> 4 <hi>Voc. [A Catch on the Crab.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THE Crab of the Wood is sauce ve╌ry good, for the Crab of the foaming Sea; and the Wood of the Crab is good for the Drab, that will not her Husband o╌bey.</p>
+         </div>
+         <div n="49" type="song">
+            <head>49 <hi>A.</hi> 4 <hi>Voc. [Touch and go.]</hi>
+            </head>
+            <byline>Mr. <hi>Symon Ives.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> COme, come pret╌ty Wenches, more nimbler than Eels, and buy my fine Boxes, my Stones, and my Steels; let me touch but your Tinder, and you would ad<g ref="char:EOLhyphen"/>mire, how quickly my Steel and my Stones will give fire; touch and go, touch and go: They are as good Met╌tle as e're came in Box, to fire all your Tinder with two or three knocks; take my Steel in your hand Wench, and try but a blow, y' faith I dare warrant 'tis true touch and go; touch and go, touch and go.</p>
+         </div>
+         <div n="50" type="song">
+            <pb facs="tcp:99249:19"/>
+            <head>50 <hi>A.</hi> 3 <hi>Voc. [A Catch upon a Liquor called</hi> Punch.]</head>
+            <byline>Mr. <hi>Tho. Tudway.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> YOu may talk of brisk Claret, sing Prai╌ses of Sherry, speak well of Old Hock, Mum, Si╌der, and Per╌ry, but you must drink <hi>Punch</hi> if you mean to be mer╌ry: A Boul of this Li╌quor the Gods be╌ing all at, thought good we should know it by way of new Ballad, as fit for both ours and their High╌nes╌ses Pallat. Then thanks to the Gods, those Tiplers above us, they've taught us to love, and therefore they love us, and to drink ve╌ry hard is all they crave of us.</p>
+         </div>
+         <div n="51" type="song">
+            <head>51 <hi>A.</hi> 4 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Ed. Frost.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> I Lay with an old Man all the night, I turn'd to him, and he to me: he could not do so well as he should, but he would fain, but it would not be.</p>
+         </div>
+         <div n="52" type="song">
+            <pb facs="tcp:99249:20"/>
+            <head>52 <hi>A.</hi> 2 <hi>Voc. [CANTƲS.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> OLD <hi>Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ron</hi> thus preach'd to his Pu╌pil <hi>A╌chil╌les,</hi> I'le tell you, I'le tell you young Gentleman what the Fate's will is: You my Boy, you my Boy, must go, must go, the Gods will have it so, to the Siege of <hi>Troy;</hi> thence never to return, thence never to return, never to return, never to return to <hi>Greece</hi> again, but before those Walls to be slain, but before those Walls to be slain, before those Walls, those Walls to be slain. Let not your noble Courage be cast down, let not your noble Courage be cast down, let not your noble Courage, let not your noble Courage be cast down, but all the while you lye be╌fore the Town drink, all the while drink, all the while you lye before the Town drink, and drive Care a╌way, drink and be merry, you'l ne're go the sooner, you'l ne're go the sooner, you'l ne're go the soo╌ner to the <hi>Sty╌gian</hi> Fer╌ry.</p>
+         </div>
+         <div n="52" type="song">
+            <pb facs="tcp:99249:20"/>
+            <head>52 <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oc. [BASSƲS.]</hi>
+            </head>
+            <byline>Mr. <hi>Mich. Wise.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> OLD <hi>Charon</hi> thus preach'd to his Pu╌pil <hi>A╌chil╌les,</hi> I'le tell you young Gentleman what the Fate's will is: You my Boy, you my Boy, must go, must go, the Gods will have it so, to the Siege of <hi>Troy;</hi> thence ne╌ver to return, thence never to return, never to re╌turn to <hi>Greece</hi> again, but before those Walls to be slain, but before those Walls to be slain, before those Walls to be slain. Let not your noble Courage be cast down, let not your noble Courage be cast down, let not your noble Courage be cast down, let not your noble Courage be cast down, but all the while you lye before the Town drink, all the while drink, all the while you lye before the Town drink, and drive Care away, drink and be merry, you'l ne're go the sooner, the sooner, you'l ne're go the sooner to the <hi>Stygian</hi> Ferry.</p>
+         </div>
+         <div n="53" type="song">
+            <pb facs="tcp:99249:21"/>
+            <head>53 <hi>A.</hi> 3. <hi>Voc. [A Loyal Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Henry Purce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> COme my Hearts, play your parts with your Quarts, see none starts, for the King's Health is a drinking; then to his Highness see, see there Wine is, that has past the Test a╌bove the rest, for those Healths deserve the best. They that shrink for their Chink, from their Drink, we will think, we will think, that of Treasons they are thinking.</p>
+         </div>
+         <div n="54" type="song">
+            <head>54 <hi>A.</hi> 4 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>John Roffey.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> COme lay by your Cares, and hang up all Sorrow, drink on, he's a Sot that e're thinks on to morrow; great store of brisk Claret supplies ev'╌ry thing, and the Man that is drunk is as great as a King: Let none at Misfortunes and Losses re<g ref="char:EOLhyphen"/>pine,
+<pb facs="tcp:99249:21"/> but take a full Dose of the Juice of the Vine; Dis╌ea╌ses and Troubles are ne're to be found, but in the damn'd place where the Glass goes not round.</p>
+         </div>
+         <div n="55" type="song">
+            <head>55 <hi>A.</hi> 4 <hi>Voc. [The Marriage Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>John Roffey.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> HOW hap╌py a thing were a Wedding, and a Bedding, if a Man cou'd purchase a Wife for a Twelve-month and a day; but to live with her all a Man's life, for e╌ver and aye, 'till she grows quite as gray as a Cat, I thank you for that, good faith Master Parson, I thank you, I thank you for that.</p>
+         </div>
+         <div n="56" type="song">
+            <head>56 <hi>A.</hi> 3. <hi>Voc. [A Round.]</hi>
+            </head>
+            <byline>Mr. <hi>Locke.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> UP and down this World goes, down, down this World goes, up and down, up and down the World goes.</p>
+         </div>
+         <div n="57" type="song">
+            <pb facs="tcp:99249:22"/>
+            <head>57 A. <hi>2</hi> Voc. [The Oath to be taken at <hi>Dunmow</hi> in <hi>Essex,</hi> on the demand of a Flitch of Bacon.]</head>
+            <byline>
+               <hi>Mr.</hi> John Hilton.</byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> YOU shall swear by the custom of Confession, if ever you made Nuptial Trans<g ref="char:EOLhyphen"/>gression; be you either marry'd Man or Wife, by Houshold Brawls, or Contentious Strife; or otherwise at Bed or at Board, of╌fen╌ded one a╌no╌ther in Deed, or in Word; or since the Parish-Clerk said <hi>Amen,</hi> you wish'd your selves unmarry'd a<g ref="char:EOLhyphen"/>gen; or in twelve Months time and a day, re╌pen╌ted not in Thought a╌ny way, but con╌ti╌nu╌ed true and just in Desire, as when you joyn'd Hands in holy Quire.</p>
+            <div type="chorus">
+               <head>
+                  <hi>Chorus,</hi> 2 <hi>Voc.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> IF to these Con╌di╌tions without all fear, of your own ac╌cord you will IF to these Con╌di╌tions without all fear, of your own ac╌cord you will
+<pb facs="tcp:99249:22"/> free╌ly swear; a whole Gam╌mon of Ba╌con you shall re╌ceive, and bear it free╌ly swear; a whole Gam╌mon of Ba╌con you shall re╌ceive, and bear it thence with Love and good leave: For this is our cu╌stom in <hi>Dun╌mow</hi> well thence with Love and good leave: For this is our cu╌stom in <hi>Dun╌mow</hi> well known; tho' the Plea╌sures are ours, yet the Ba╌con's your own. known; tho' the Plea╌sures are ours, yet the Ba╌con's your own.</p>
+            </div>
+         </div>
+         <div n="58" type="song">
+            <head>58 <hi>A.</hi> 4 <hi>Voc. [A Catch.]</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THe Hart he loves the high Wood, the Hare he loves the Hill; the Knight he loves his bright Sword, the La╌dy loves her will.</p>
+         </div>
+         <div n="59" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:23"/>
+               <head>59 <hi>A.</hi> 2 <hi>Voc. [CANTƲS.]</hi>
+               </head>
+               <byline>Mr. <hi>Tho. Tudwa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> FILL the Boul, 'tis a Health to our Friends at <hi>Vienn;</hi> fill the Boul, 'tis a Health to our Friends at <hi>Vienn;</hi> he that leaves but one drop, he shall drink it a╌gain. To <hi>Staremburgh</hi>'s Health we will spring a new Myne, and each lu╌sty Bar╌rel shall be fill'd with brisk Wine; but when we re╌mem╌ber the King of the <hi>Poles,</hi> we then wish our tall Steeples, our tall Steeples, were the drinking Bouls.</p>
+            </div>
+            <div n="Bass" type="part">
+               <pb facs="tcp:99249:23"/>
+               <head>59 <hi>A.</hi> 2 <hi>Voc. [BASSƲS.]</hi>
+               </head>
+               <byline>Mr. <hi>Tho. Tudway.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> FILL the Boul, 'tis a Health to our Friends at <hi>Vi╌enn;</hi> fill the Boul, 'tis a Health to our Friends at <hi>Vi╌enn;</hi> he that leaves but one drop, that leaves but one drop, he shall drink it a╌gain. To <hi>Staremburgh</hi>'s Health we will spring a new Myne, and each lu╌sty Bar╌rel shall be fill'd with brisk Wine; but when we re╌mem╌ber the King of the <hi>Poles,</hi> we then wish our tall Steeples were the drinking Bouls.</p>
+            </div>
+         </div>
+         <div n="60" type="song">
+            <pb facs="tcp:99249:23"/>
+            <head>60 <hi>A.</hi> 3 <hi>Voc. [A Musical Catch.]</hi>
+            </head>
+            <byline>Mr. <hi>Matth. Locke.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> UT La, Ʋt Fa Me, Fa Re La, Fa Re La, Fa Re La, <hi>Money;</hi> Fa Re La, Fa Re La, Fa Re La, <hi>Money.</hi> Ʋt La, Ʋt, &amp;c.</p>
+         </div>
+         <div n="61" type="song">
+            <pb facs="tcp:99249:23"/>
+            <head>61 <hi>A.</hi> 3 <hi>Voc. [A</hi> Scotch <hi>Epitaph.]</hi>
+            </head>
+            <byline>Mr. <hi>Francis Forcer.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> MArry hem think'st thou liggeth here, eyn <hi>Jamey,</hi> eyn <hi>Jamey,</hi> the good Pyper; hem <hi>Jamey</hi> the yonker, fay, fay, fay, say, hem than <hi>Jamey</hi> the el╌der, eay, eay.</p>
+         </div>
+         <div n="62" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:24"/>
+               <head>62 <hi>A.</hi> 2 <hi>Voc. [A Medly.] CANTƲS.</hi>
+               </head>
+               <byline>J. Playford.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> WE live in Woods, we live in Groves, we scorn all Thoughts but of our Loves; we Lau╌gh and Qua╌ff, 'till Cocks do crow, and grieve but when our Cups run low, and grieve but when our Cups run low. Red is our Noses, red is our Noses, rich is our Fa╌ces, rich is our Fa╌ces, free Mettle all, free Mettle all, but of no pace. We cannot Card, we cannot Spin, we cannot Spin, But we can drink, but we can drink all out, all out, all out, all out that's in. We have no Art to turn the Wheel, but yet we dare be bold to Reel, to Ree╌l, be bold to Reel. Oh! let us make our Colours roar, let us
+<stage>Slow.</stage> make our Colours roar, so shall we sleep, shall we sleep, and snort, and snort, and snore; and ne╌ver be drunk, and ne╌ver be drunk a╌ny more; and ne╌ver be, ne╌ver be ne╌ver be drunk a╌ny more.</p>
+            </div>
+            <div n="Bass" type="part">
+               <pb facs="tcp:99249:24"/>
+               <head>62 <hi>A.</hi> 2 <hi>Voc. [A Medley.] BASSƲS.</hi>
+               </head>
+               <byline> J. Playford.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> WE live in Woods, we live in Groves, we scorn all Thoughts but of our Loves; we Lau╌gh and Qua╌ff, 'till Cocks do crow, and grieve but when our Cups run low, and grieve but when our Cups run low. Red is our Noses, red is our Noses, rich is our Faces, rich is our Faces, free Mettle all, free Mettle all, but of no pace. We cannot Card, we cannot spin, we cannot spin, but we can drink, but we can drink all out, all out, all out, all out that's in. We have no Art to turn the Wheel, but yet we dare be bold to Reel, to Ree╌l, be bold to Reel. Oh! let us make our Colours roar, let us
+<stage>Slow.</stage> make our Colours roar, so shall we sleep, shall we sleep, and snort, and snort, and snore; and ne╌ver be drunk, and ne╌ver be drunk a╌ny more; and ne╌ver be, never be, ne╌ver be drunk a╌ny more.</p>
+            </div>
+         </div>
+         <div n="63" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:25"/>
+               <head>63 <hi>A.</hi> 2 <hi>Voc. [A Glee.] CANTƲS.</hi>
+               </head>
+               <byline>Dr. <hi>John Blow.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> LET us drink to all the well{dash}wil╌lers of the Church, and the King╌ly State, while the <hi>Good Old Cause</hi> ful╌fil╌lers are drunk with Ma╌lice and Hate; let us sing and obey whilst they whine and Rebel, for Mu╌sic's in Heav'n, but Witchcraft in Hell, for e╌ver and e╌ver must dwell, for e╌ver and e╌ver must dwell.</p>
+            </div>
+            <div n="Bass" type="part">
+               <pb facs="tcp:99249:25"/>
+               <head>63 <hi>A.</hi> 2 <hi>Voc. [A Glee.] BASSƲS.</hi>
+               </head>
+               <byline>Dr. <hi>John Blow.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> LET us drink to all the well{dash}wil╌lers of the Church, and the King╌ly State, while the <hi>Good Old Cause</hi> ful╌fil╌lers are drunk with Malice and Hate; let us sing and o╌bey, whilst they whine and Re╌bel, for Mu╌sic's in Heav'n, but Witchcraft in Hell, for e╌ver and e╌ver must dwell, for e╌ver and e╌ver must dwell.</p>
+            </div>
+         </div>
+         <div n="64" type="song">
+            <div n="Cantus" type="part">
+               <head>64 <hi>A.</hi> 2 <hi>Voc. [A Glee.] CANTƲS.</hi>
+               </head>
+               <byline>Mr. <hi>Matth. Locke.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> AWay with the Cau╌ses of Rich╌es and Cares, that eats up our Spi╌rits, and shortens our Years; no Pleasure can be in State or De<g ref="char:EOLhyphen"/>gree, but 'tis mingled with Trouble and Fears: Then perish all Fops of So<g ref="char:EOLhyphen"/>bri╌e╌ty dull, whilst he that is mer╌ry reigns Prince of the World.</p>
+            </div>
+            <div n="Bass" type="part">
+               <head>64 <hi>A.</hi> 2 <hi>Voc. [A Glee.] BASSƲS.</hi>
+               </head>
+               <byline>Mr. <hi>Matth. Locke.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> AWay with the Cau╌ses of Rich╌es and Cares, that eats up our Spi╌rits, and shortens our Years; no Plea╌sure can be in State or De<g ref="char:EOLhyphen"/>gree, but 'tis mingled with Troubles and Fears: Then pe ╌rish all Fops of So<g ref="char:EOLhyphen"/>bri╌e╌ty dull, whilst he that is mer╌ry reigns Prince of the World.</p>
+            </div>
+         </div>
+         <div n="67" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:26"/>
+               <head>67 <hi>A.</hi> 2 <hi>Voc. [Adieu to a Mistress.] CANTƲS.</hi>
+               </head>
+               <byline>Mr. <hi>Henry Purcell.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme lay by all Care, e'ne let her go, fill up the Glass 'till it o╌ver<g ref="char:EOLhyphen"/>flow; if the Drawer prove right, no Mi╌stress like Wine, she'l charm all your Senses, and Fancies refine: To humour a Creature will change like the Moon, sometimes she'l be kind, then dogged as soon. Prethee leave off! we'l mind her no more, and 'tis
+<stage>Chorus.</stage> for╌ty to one if she ben't a damn'd Whore. <hi>Then drink about freely, then drink a╌bout free╌ly whilst now in your pow'r, whilst now, now in your pow'r; then drink a╌bout freely, then drink, then drink, drink about, drink a╌bout free╌ly, whilst now in your pow'r, ne're lose the great Blessing, ne're lose the great Blessing of this hap╌py hour.</hi>
+               </p>
+            </div>
+            <div n="Bass" type="part">
+               <pb facs="tcp:99249:26"/>
+               <head>67 <hi>A.</hi> 2 <hi>Voc. [Adieu to a Mistress.] BASSƲS.</hi>
+               </head>
+               <byline>Mr. <hi>Henry Purcell.</hi>
+               </byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme lay by all Care, e'ne let her go, fill up the Glass 'till it o╌ver{dash}flow; if the Drawer prove right, no Mistress like Wine, she'l charm all your Sen╌ses, and Fan╌cies refine: To humour a Creature will change like the Moon, some<g ref="char:EOLhyphen"/>times she'l be kind, then dogged as soon; prethee leave off! we'l mind her no more, and 'tis
+<stage>Chorus.</stage> for╌ty to one if she ben't a damn'd Whore. <hi>Then drink a╌bout freely, then drink a╌bout free╌ly, whilst now in your pow'r, whilst now in your pow'r; then drink about free╌ly, then drink a╌bout free╌ly, then drink, drink about, drink a╌bout free╌ly, whilst now in your pow'r, ne're lose the great Blessing, ne're lose the great Blessing of this hap╌py hour.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="68" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:27"/>
+               <head>68 A. <hi>2</hi> Voc. [CANTƲS.]</head>
+               <byline>
+                  <hi>Mr.</hi> Henry Purcell.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> THo' my Mi╌stress be fair, yet froward, yet fro╌ward she's too; then hang the dull Soul, then hang the dull Soul, that will of╌fer, will of╌fer to woo: But 'tis Wine, brave Wine, 'tis Liquor, 'tis Liquor, good Li╌quor, that's much more sublime, much bris╌ker and quicker, much, much, much bris╌ker and quicker; it in spar╌kles smiles on me, 'tho she frown up╌on me: Then with laugh╌ing and quaffing I'le Time and Age beguile, owe my Pimples and Wrinkles, owe my Pimples and Wrin╌kles to my Drink and a Smile. Come fill up, come fill up my Glass, and a╌pox on her Face; may it never want Scars and Scratches, may it ne╌ver want Scars and Scratches, wash Paint and Patches:
+<pb facs="tcp:99249:27"/> Give me all my drink╌ing Ma╌ga╌zine, I'le blo╌w up the scornful Quean; give me Bot╌tles and Jugs, the Glas╌ses and Mugs, I'le hug 'em, and tug 'em, I'le hug 'em, and tug 'em, and Court 'em much more, than e're I did the pee╌vish Girl before, than e're I did, than e're I did the pee╌vish Girl before.</p>
+            </div>
+            <div n="Bass" type="part">
+               <head>68 A. <hi>2</hi> Voc. [BASSƲS.] </head>
+               <byline>
+                  <hi>Mr.</hi> Henry Purcell.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> THo' my Mistress be fair, yet fro╌ward she's too; then hang the dull Soul, then hang the dull Soul, that will of╌fer to woo: But 'tis Wine, brave Wine, 'tis Liquor, good Liquor, that's much more sublime, much brisker and quicker, much, much, much brisker and quicker; it in sparkles smiles on me, tho'
+<pb facs="tcp:99249:28"/> she frown upon me: Then with laugh╌ing and quaffing I'le Time and Age beguile, owe my Pimples and Wrinkles, owe my Pimples and Wrinkles to my Drink and a Smile. Come fill up my Glass, come fill up my Glass, and a╌pox on her Face; may it ne╌ver, may it ne╌ver want Scars, want Scars and Scratches, wash Paint and Patches: Give me all my drink╌ing Magazine, give me all, I'le blo╌w up the scornful Quean; give me Bottles and Jugs, the Glasses and Mugs, I'le hug 'em, I'le hug 'em, and tug 'em, and Court 'em much more, than e're I did the pee╌vish Girl before, than e're I did the pee╌vish Girl before.</p>
+            </div>
+         </div>
+         <div n="69" type="song">
+            <head>69 <hi>A.</hi> 3 <hi>Voc. [For the</hi> 29th <hi>of</hi> May.]</head>
+            <div n="Altus" type="part">
+               <pb facs="tcp:99249:28"/>
+               <head>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. <hi>[For the</hi> 29th <hi>of</hi> May.] <hi>ALTƲS.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> AWake my Muse without delay, awake my ever tuneful Lute; to sing the Glories of his day, in your most soft and kind dispute: This Rising-Sun gave <hi>Charles</hi> his Birth, together rose the Sun and he; The mighty Sun to rule the Earth, and mighty <hi>Charles</hi> to rule the Sea.</p>
+            </div>
+            <div n="Medius" type="part">
+               <head>69 <hi>A.</hi> 3 <hi>Voc. [For the</hi> 29th <hi>of</hi> May.] <hi>MEDIƲS.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> AWake my Muse without delay, awake my ever tuneful Lute; to sing the Glories of his day, in your most soft and kind dispute: This Rising-Sun gave <hi>Charles</hi> his Birth, together rose the Sun and he; The mighty Sun to rule the Earth, and mighty <hi>Charles</hi> to rule the Sea.</p>
+            </div>
+            <div n="Bass" type="part">
+               <head>69 <hi>A.</hi> 3 <hi>Voc. [For the</hi> 29th <hi>of</hi> May.] <hi>BASSƲS.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> AWake my Muse without delay, awake my ever tuneful Lute; to sing the Glories of his day, in your most soft and kind dispute: This Rising-Sun gave <hi>Charles</hi> his Birth, together rose the Sun and he; The mighty Sun to rule the Earth, and mighty <hi>Charles</hi> to rule the Sea.</p>
+            </div>
+         </div>
+         <div n="70" type="song">
+            <div n="Cantus" type="part">
+               <pb facs="tcp:99249:29"/>
+               <head>70 A. <hi>3</hi> Voc. [A Catch.] CANTƲS.</head>
+               <byline>
+                  <hi>Mr.</hi> William Pizing.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme follow, follow, come fol╌low me, with Mirth and merry Glee; and there we shall be merry, the <hi>Rose,</hi> the <hi>Rose,</hi> the <hi>Rose,</hi> the <hi>Rose</hi> go we. Now <hi>Whisper.</hi> un╌der the <hi>Rose</hi> be it spoke, <hi>Dick, hast a╌ny Money?</hi> Then <hi>Jack</hi> must pawn his Cloak. Then drink and be merry, be mer╌ry, and leave off this Talk, what tho' we have no Money, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, is bet╌ter than Chalk.</p>
+            </div>
+            <div n="Medius" type="part">
+               <head>70 A. <hi>3</hi> Voc. [A Catch.] MEDIƲS.</head>
+               <byline>
+                  <hi>Mr.</hi> William Pizing.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme follow, come fol╌low me, follow, follow, follow me, with Mirth and merry Glee; and we will to <hi>Will, Terry's,</hi> the <hi>Rose,</hi> the <hi>Rose,</hi> the <hi>Rose</hi> go we. <hi>Whisper.</hi> Now un╌der the <hi>Rose</hi> be it spoke, <hi>Tom not a Pe╌ny,</hi> then <hi>Jack</hi> must pawn his
+<pb facs="tcp:99249:29"/> Cloak. Then drink and be mer╌ry, and leave off this Talk, what tho' we have no Money, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, is bet╌ter than Chalk.</p>
+            </div>
+            <div n="Bass" type="part">
+               <head>70 A. <hi>3</hi> Voc. [A Catch.] BASSƲS.</head>
+               <byline>
+                  <hi>Mr.</hi> William Pizing.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> COme follow, follow, come follow me, follow, follow me, with Mirth and merry Glee; and we will to <hi>Will. Terry's,</hi> and there we shall be merry, the <hi>Rose,</hi> the <hi>Rose</hi> go we. Now un╌der the <hi>Rose</hi> be it spoke, then <hi>Jack</hi> must pawn his Cloak. Then drink and be mer╌ry, be merry, and leave off this Talk, what tho' we have no Money, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, <hi>Jack</hi>'s Cloak, is bet╌ter than Chalk.</p>
+            </div>
+         </div>
+         <div n="71" type="song">
+            <pb facs="tcp:99249:30"/>
+            <head>71 For a Bass alone. <hi>[Tom of Bedlam.]</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> FOrth from the dark and dis╌mal Cell, or from the deen a╌byss of Hell; mad <hi>Tom</hi> is come to view the World a╌gain, to see if he can cure his di<g ref="char:EOLhyphen"/>stemper'd Brain: Fears and Cares op╌press my Soul, hark how the an╌gry Furies howl; <hi>Plu╌to</hi> laughs, and <hi>Pro╌ser╌pine</hi> is glad, to see poor angry <hi>Tom</hi> of <hi>Bedlam</hi> mad. Through the World I wander night and day to find my stragling Sen╌ses, in an an╌gry mood I met old Time, with his Pen╌ta╌teuch of Tenses; when me he spies, a╌way he flies, for Time will stay for no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an; in vain with Cries, I rend the Skies, for Pi╌ty is not common. Cold and comfort<g ref="char:EOLhyphen"/>less
+<pb facs="tcp:99249:30"/> I lye, Help, help, oh help! or else I dye! Hark, I hear <hi>A╌pol╌lo</hi>'s Team, the Carman 'gins to whistle; Chast <hi>Di╌a╌na</hi> bends her Bow, and the Boar be╌gins to bri╌stle. Come <hi>Vul╌can</hi> with Tools and with Tackles, to knock off my trou╌ble╌som Shackles; bid <hi>Charles</hi> make rea╌dy his Wain, to <stage>
+                  <hi>This Song was printed in the First Book of</hi> Choice Ayres, <hi>the Impression of which is all sold off, and this Song I am often enquired after, which caused me to reprint it in this place.</hi>
+               </stage> bring me my Sen╌ses a╌gain.</p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Last night I heard the Dog-Star bark,</l>
+               <l>
+                  <hi>Mars</hi> met <hi>Venus</hi> in the the dark;</l>
+               <l>Lymping <hi>Vulcan</hi> heat an Iron Bar,</l>
+               <l>And furiously made at the great God of War.</l>
+               <l>
+                  <hi>Mars</hi> with his Weapon laid about,</l>
+               <l>Lymping <hi>Vulcan</hi> had got the Gout;</l>
+               <l>His broad Horns did hang so in his light,</l>
+               <l>That he could not see to aim his blows aright.</l>
+               <l>
+                  <hi>Mercury</hi> the nimble Post of Heaven</l>
+               <l>Stood still to see the Quarrel;</l>
+               <l>Gorrel-<gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cchus,</hi> Gyant-like,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Barrel</l>
+               <l>To me he drank, I did him thank,</l>
+               <l>But I could drink no Sider;</l>
+               <l>He drank whole Buts 'till he burst his Guts,</l>
+               <l>But mine was ne're the wider.</l>
+               <l>Poor <hi>Tom</hi> is very dry,</l>
+               <l>A little Drink for Charity.</l>
+               <l>Hark! I hear <hi>Acteon</hi>'s Hounds,</l>
+               <l>The Huntsman hoops and hallows;</l>
+               <l>Ringwood, Rockwood, Jowler, Bowman,</l>
+               <l>All the Chafe doth follow.</l>
+               <l>The Man in the Moon drinks Claret,</l>
+               <l>Eats Powder'd-Beef, Turnep, and Carret;</l>
+               <l>But a Cup of Malago Sack</l>
+               <l>Will fire the Bush at his back.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:99249:31"/>
+            <head>
+               <hi>MUSIC</hi> Books printed for <hi>John Playford,</hi> at his Shop near the <hi>Temple</hi> Church.</head>
+            <p>THE Psalms of <hi>David,</hi> and other Sacred <hi>Hymns,</hi> according to the common Tunes sung in Parish Churches, composed in four Parts: Printed in Folio. Price 3 <hi>s.</hi>
+            </p>
+            <p>The <hi>Psalms</hi> in Metre, as they are sung in all Parish Churches, with the proper Tune to all the Psalms; composed in three Parts, <hi>viz. Cantus, Medius,</hi> and <hi>Bassus,</hi> and printed in a small Volume convenient for all such as sing Tunes musically, to carry in their Pockets to Church. Price bound 3 <hi>s.</hi>
+            </p>
+            <p>A brief <hi>Introduction</hi> to the Skill of <hi>Music,</hi> both Vocal and Instrumental, by <hi>J. Playford:</hi> Printed in Octavo With an addition of the <hi>Art of Descant,</hi> never printed before. Price bound 2 <hi>s.</hi>
+            </p>
+            <p>The <hi>Musical Companion,</hi> containing variety of <hi>Catches</hi> and <hi>Rounds</hi> of three and four Parts; and also severa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> choice <hi>Songs, Ayres,</hi> and <hi>Dialogues,</hi> of two, three, and four Parts, in one Volume in Quarto. Pric<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bound 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Treasury</hi> of <hi>Music,</hi> containing three several Volumes of Sei<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Ayres,</hi> and <hi>Dialogues,</hi> for on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Voice to the <hi>Theorbo-Lute,</hi> or <hi>Bass-Viol;</hi> composed by Mr. <hi>Henry Laws,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r eminent Masters; in Foli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Price bound 10 <hi>s.</hi>
+            </p>
+            <p>Five new Books of choice <hi>Ayres, Songs,</hi> and <hi>Dialogues,</hi> to sing to the <hi>Theorbo-Lute,</hi> or <hi>Bass-Viol;</hi> compos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by several Gentlemen of His Majesty's Music: Printed i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> five several Volumes.</p>
+            <p>
+               <hi>Music's Recreation</hi> on the <hi>Lyra-Viol,</hi> containing variety of new <hi>Ayres, Tunes,</hi> and <hi>Lessons.</hi> Price stitcht 2 <hi>s.</hi>
+            </p>
+            <p>The <hi>Dancing-Master,</hi> or plain and easie Rules to dance Country Dances, with the proper Tunes to ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dance to play on the <hi>Treble-Violin,</hi> newly Reprinted with 25 new Dances never printed before. Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bound 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Music's Handmaid,</hi> containing new choice Lessons for the <hi>Virginals</hi> and <hi>Harpsichord,</hi> newly Reprinted w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Additions of plain and easie Rules for Beginners to play from the Book, all engraven on Copper Plat Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Pleasant Companion,</hi> containing new and pleasant <hi>Ayres</hi> and <hi>Tunes</hi> for the <hi>Flagelet,</hi> with plain Instructio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for Learners, newly reprinted, and many of the newest Tunes added. Price bound 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Apollo's Banquet,</hi> a Book for the <hi>Treble-Violin,</hi> containing variety of new <hi>Ayres,</hi> and <hi>Theater-Tunes</hi> and <hi>Jig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to which is added, the proper Tunes to the <hi>French Dances,</hi> as they are in use at <hi>Court</hi> and <hi>Dancing-Schools:</hi> which Tunes may be performed upon the <hi>Recorder</hi> or <hi>Flute.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Delightful Companion,</hi> a new Book of <hi>Lessons</hi> and <hi>Instructions</hi> for the <hi>Recorder</hi> or <hi>Flute.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p>The <hi>Division-Violin,</hi> containing a choice Collection of <hi>Divisions</hi> to a Ground for the <hi>Treble-Violin;</hi> engraven on Copper Plates. Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The best <hi>Rul'd Paper</hi> for <hi>MƲSIC,</hi> and Books ready Bound of all sizes.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Other <hi>BOOKS</hi> sold at the same place.</head>
+            <p>THE History of the most unfortunate Prince King <hi>Edward</hi> the Second, with Political Observations Him and his unhappy Favourites <hi>Gaveston</hi> and <hi>Spencer;</hi> written by the Right Honourable <hi>Henry</hi> L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Viscount <hi>Faulkland.</hi> Price bound 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gland's Black Tribunal,</hi> set forth in the Tryal of King <hi>Charles</hi> the First, by a pretended High-Court▪ Justice, <hi>Jan.</hi> 30. 1648. with his Speech on the Scaffold; together with the <hi>Dying-Speeches</hi> of the Nobilit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Gentry who were inhumanly murder'd for their Loyalty, <hi>viz.</hi> The Earl of <hi>Strafford,</hi> Dr. <hi>Laud</hi> Arc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bishop of <hi>Canterbury,</hi> Duke <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilton,</hi> Earl of <hi>Holland,</hi> Lord <hi>Capel,</hi> Earl of <hi>Darby,</hi> Marquess of <hi>Montro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Sir <hi>Henry Hide,</hi> Sir <hi>Henry Slingsby,</hi> Collonel <hi>Penruddock,</hi> Collonel <hi>Gerrard,</hi> Collonel <hi>Andrews,</hi> Dr. <hi>Hewe</hi> and others. Price bound 2 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Wit</hi> and <hi>Mirth,</hi> an Antidote against <hi>Melancholy,</hi> compounded of new ingeni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Poems,</hi> witty <hi>Ballads,</hi> a new and pleasant <hi>Songs</hi> and <hi>Catches;</hi> newly Reprinted with several Additions. Pri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>und 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A Second Part to the <hi>Antidote</hi> against <hi>Melancholy,</hi> containing merry Tales, witty Je <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bulls. Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound 1 <hi>s.</hi>
+            </p>
+            <p>There likewise all Gentlemen <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be furnished with all so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or without▪ <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:99249:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
